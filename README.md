@@ -6,14 +6,6 @@ Customers can search for items and discover nearby stores on a Google Map, while
 
 ---
 
-## 📱 Screenshots
-
-| Login | Customer Dashboard | Shop Dashboard |
-|-------|-------------------|----------------|
-| Gradient login screen | Full-screen map with search | Inventory management |
-
----
-
 ## 🏗️ Tech Stack
 
 | Layer | Technology |
@@ -156,6 +148,3 @@ This project is for educational purposes.
 
 ---
 
-## 👨‍💻 Author
-
-**Danith** — [danithrandula@gmail.com](mailto:danithrandula@gmail.com)
