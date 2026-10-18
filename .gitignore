@@ -1,0 +1,60 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Flutter / Dart
+store_locator/.dart_tool/
+store_locator/.flutter-plugins
+store_locator/.flutter-plugins-dependencies
+store_locator/.packages
+store_locator/.pub-cache/
+store_locator/.pub/
+store_locator/build/
+store_locator/**/doc/api/
+store_locator/**/ios/Flutter/.last_build_id
+store_locator/app.*.symbols
+store_locator/app.*.map.json
+
+# Android build artifacts
+store_locator/android/app/debug/
+store_locator/android/app/profile/
+store_locator/android/app/release/
+store_locator/android/.gradle/
+store_locator/android/local.properties
+
+# iOS
+store_locator/ios/Pods/
+store_locator/ios/.symlinks/
+store_locator/ios/Flutter/Flutter.framework
+store_locator/ios/Flutter/Flutter.podspec
+
+# Windows build
+store_locator/windows/flutter/ephemeral/
+
+# Web build
+store_locator/web/favicon.png
+
+# Test & coverage
+coverage/
+*.lcov
+
+# Package lock (optional - uncomment if you want to track it)
+# package-lock.json
